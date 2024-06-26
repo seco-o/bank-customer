@@ -55,7 +55,7 @@ spec:
     - host: ibm-bank.detera.local
       http:
         paths:
-          - path: /customer
+          - path: /api/v1/customer
             pathType: Prefix
             backend:
               service:
