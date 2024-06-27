@@ -6,5 +6,5 @@ commonPipeline(
     SERVICE: 'bank-customer',
     TAG: 'v0.2',
     ENVIRONMENT: 'production',
-    EXTENSION: 'war'
+    EXTENSION: 'jar'
 )
